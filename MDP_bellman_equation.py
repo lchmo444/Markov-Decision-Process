@@ -1,3 +1,5 @@
+# Python: Beginner's Guide to Artificial Intelligence: Build applications to
+
 import  numpy as q1
 R = q1.matrix([[0,0,0,0,1,0],
                [0, 0, 0, 1, 0, 1],

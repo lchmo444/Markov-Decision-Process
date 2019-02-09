@@ -1,7 +1,6 @@
 # Python: Beginner's Guide to Artificial Intelligence: Build applications to
 
 # Markov Decision Process (MDP) - Bellman's equations adapted to
-# Reinforcement Learning with the Q action-value (reward) matrix
 
 import  numpy as q1
 R = q1.matrix([[0,0,0,0,1,0],
